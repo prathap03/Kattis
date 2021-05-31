@@ -17,4 +17,10 @@ Example:
 hello.py solves the problem of
 https://open.kattis.com/problems/hello
 
+
+## How to run?
+All these solution are solved with Python 3.6+.
+You can run the solutions by passing the solution file to Python in a terminal like this:
+```console
+> python hello.py
 ```
